@@ -47,6 +47,8 @@ Per effettuare il *checkout* di un *branch* su _PyCharm_ click sul menù _Git_ i
 oppure da terminale (per utenti esperti):
 - Dal terminale di _Pycharm_ digitare il seguente comando per spostarsi nel *branch* della prima esercitazione.
 
+
+
 ```git
     git checkout 01-esercitazione
 ```
